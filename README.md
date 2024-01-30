@@ -10,7 +10,7 @@ Player Control: Play as Mario and control his movements using the keyboard. Jump
 Shooting Mechanism: Mario is armed and ready! Shoot bullets at incoming enemies by clicking the mouse. Watch out for limited bullet capacity ,after a enemy is dead you get your health refilled and number of bullets gets increased
 
 Health and Score System: Keep an eye on Mario's health bar as enemies attempt to deplete it. Score points for each successful enemy takedown and aim for a high score.
-How to Play:
+
 
 ## Controls
 Move Mario using the 'A' and 'D' keys.
@@ -26,9 +26,11 @@ Feel free to explore, modify, and share the code. Happy gaming!
 
 Install the library pygame or just copy paste this in your command prompt or terminal
 
+
 ```bash
   pip install pygame
 ```
 
 
 ## Screenshots
+![image](https://github.com/Dhanraj9623/NotMario/assets/86238792/cdd55289-0ddc-4d69-ac4a-496b7a691c96)
